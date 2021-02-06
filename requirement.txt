@@ -7,5 +7,5 @@ django-cors-headers==3.0.2
 django-registration==2.4.1
 django-utils-six==2.0
 djangorestframework==3.12.2
-djangorestframework-simplejwt==4.4.0ephem==3.7.6.0
+djangorestframework-simplejwt==4.4.0
 requests==2.25.1
